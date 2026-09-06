@@ -1,0 +1,33 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated project data
+Cache/
+logs/
+*.log
+
+# External astronomical data
+RawData/
+solar-system-data/
+*.bsp
+*.tls
+*.exr
+mpcorb_extended.json
+
+# Kit-side installed Python dependencies
+vendor/
+
+# Packaging / temporary
+build/
+dist/
+*_unpack/
+cleanup_hold_*/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

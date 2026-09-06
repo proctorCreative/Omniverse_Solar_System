@@ -1,0 +1,20 @@
+[package]
+version = "2.12.0"
+title = "Omniverse Solar System"
+description = "GPU/Fabric J2000 planet-and-asteroid orrery from DE440 and MPCORB."
+authors = ["Ron Proctor"]
+category = "Visualization"
+keywords = ["astronomy", "solar system", "SPICE", "MPC", "orrery"]
+readme = "docs/README.md"
+
+[dependencies]
+"omni.kit.actions.core" = {}
+"omni.kit.viewport.actions" = {}
+"omni.kit.viewport.utility" = {}
+"omni.ui.scene" = {}
+"omni.usd" = {}
+"omni.warp.core" = {}
+"omni.hydra.usdrt_delegate" = {}
+
+[[python.module]]
+name = "ronproctor.omniverse_solar_system"

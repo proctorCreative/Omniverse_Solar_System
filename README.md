@@ -17,6 +17,9 @@ All displayed positions use heliocentric equatorial J2000/ICRF coordinates in AU
 
 ## Credits and Data Sources
 
+NVIDIA Omniverse/Kit and Warp are dependencies governed by their
+respective NVIDIA terms and are not licensed by the MIT license.
+
 Planetary ephemerides:
 NASA/JPL SPICE
 https://ssd.jpl.nasa.gov/planets/orbits.html

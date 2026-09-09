@@ -16,3 +16,11 @@ PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIG
 HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+
+This software depends on Omniverse and source code provided by NVIDIA Corporation.
+
+Some sources are absent because they were based on NVIDIA-provided templates and the license forbids redistribution.
+
+NVIDIA Omniverse/Kit and Warp are dependencies governed by their respective NVIDIA terms and are not licensed by the MIT license.

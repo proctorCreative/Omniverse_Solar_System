@@ -17,8 +17,11 @@ All displayed positions use heliocentric equatorial J2000/ICRF coordinates in AU
 
 ## Credits and Data Sources
 
-NVIDIA Omniverse/Kit and Warp are dependencies governed by their
-respective NVIDIA terms and are not licensed by the MIT license.
+### This software depends on Omniverse and source code provided by NVIDIA Corporation.
+
+Some sources are absent because they were based on NVIDIA-provided templates and the license forbids redistribution.
+
+NVIDIA Omniverse/Kit and Warp are dependencies governed by their respective NVIDIA terms and are not licensed by the MIT license.
 
 Planetary ephemerides:
 NASA/JPL SPICE
